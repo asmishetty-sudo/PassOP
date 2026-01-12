@@ -29,14 +29,32 @@ React Toastify - Notifications
 Animated icons - For better UI/UX
 
 ---
+## ▶️ Running the Project Locally
+
+### Install dependencies
+```bash
+npm install
+````
+
 
 ### Start the backend server:
+```bash
 cd backend
-nodemon server.js or node server.js
+```
+```bash
+nodemon server.js
+```
+OR
+```bash
+node server.js
+```
 
 ### Start the frontend development server:
+
+```bash
 cd ../
 npm run server
+```
 
 
 ## Project structure
